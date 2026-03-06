@@ -1,4 +1,4 @@
-Inter-Department Workflow Automation System
+##Inter-Department Workflow Automation System##
 Project Overview
 The Inter-Department Workflow Automation System is designed to improve hospital operations by automating the routing and tracking of patient service requests across multiple departments. Hospitals often rely on manual coordination between departments such as reception, doctors, laboratories, pharmacies, and billing. This manual process can lead to delays, miscommunication, and inefficiencies.
 This system provides a centralized platform where patient requests are automatically routed to the appropriate departments and tracked throughout the workflow until completion.
