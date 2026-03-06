@@ -1,4 +1,4 @@
-# 🏥 QuantumShield IDWAS
+
 ## Inter-Department Workflow Automation System for Hospitals
 
 <div align="center">
